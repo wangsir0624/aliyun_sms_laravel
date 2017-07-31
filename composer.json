@@ -22,7 +22,10 @@
   "autoload": {
     "psr-4": {
       "Wangjian\\Alisms\\": "src"
-    }
+    },
+    "classmap": [
+      "src/Lib"
+    ]
   },
 
   "autoload-dev": {
