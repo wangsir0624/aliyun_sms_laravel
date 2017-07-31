@@ -1,5 +1,5 @@
 {
-  "name": "wangjian/aliyun_sms",
+  "name": "wangjian/aliyun_sms_laravel",
   "description": "阿里云通信Laravel",
   "license": "MIT",
   "keywords": ["阿里云", "SMS", "laravel"],
